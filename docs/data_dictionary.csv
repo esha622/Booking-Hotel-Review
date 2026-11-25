@@ -1,0 +1,33 @@
+Variable,Data Type,Unique Values,Missing Values,Description
+hotel,str,2,0,Type of hotel
+is_canceled,int64,2,0,"Cancellation status: 1 cancelled, 0 not cancelled"
+lead_time,int64,479,0,Days between booking and scheduled arrival
+arrival_date_year,int64,3,0,Scheduled arrival year
+arrival_date_month,str,12,0,Scheduled arrival month
+arrival_date_week_number,int64,53,0,
+arrival_date_day_of_month,int64,31,0,Scheduled arrival day
+stays_in_weekend_nights,int64,17,0,Number of weekend nights
+stays_in_week_nights,int64,35,0,Number of weekday nights
+adults,int64,14,0,Number of adults
+children,float64,5,4,Number of children
+babies,int64,5,0,Number of babies
+meal,str,5,0,
+country,str,177,488,Country of origin code
+market_segment,str,8,0,Market segment designation
+distribution_channel,str,5,0,Reservation distribution channel
+is_repeated_guest,int64,2,0,
+previous_cancellations,int64,15,0,
+previous_bookings_not_canceled,int64,73,0,
+reserved_room_type,str,10,0,
+assigned_room_type,str,12,0,
+booking_changes,int64,21,0,
+deposit_type,str,3,0,
+agent,float64,333,16340,
+company,float64,352,112593,
+days_in_waiting_list,int64,128,0,
+customer_type,str,4,0,
+adr,float64,8879,0,Average daily accommodation rate
+required_car_parking_spaces,int64,5,0,
+total_of_special_requests,int64,6,0,
+reservation_status,str,3,0,
+reservation_status_date,str,926,0,

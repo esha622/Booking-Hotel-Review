@@ -1,0 +1,13 @@
+,count,unique,top,freq
+hotel,119390,2,City Hotel,79330
+arrival_date_month,119390,12,August,13877
+meal,119390,5,BB,92310
+country,118902,177,PRT,48590
+market_segment,119390,8,Online TA,56477
+distribution_channel,119390,5,TA/TO,97870
+reserved_room_type,119390,10,A,85994
+assigned_room_type,119390,12,A,74053
+deposit_type,119390,3,No Deposit,104641
+customer_type,119390,4,Transient,89613
+reservation_status,119390,3,Check-Out,75166
+reservation_status_date,119390,926,2015-10-21,1461
