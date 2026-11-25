@@ -1,0 +1,5 @@
+Research Question,Test,Statistic,P-value,Effect Size,Effect Measure,Sample Size,Diagnostic,Adjusted P-value,Reject H0,Statistical Decision
+RQ1,Chi-square,3741.9121806208227,0.0,0.17704020895706085,Cramer's V,119385,Expected counts adequate,0.0,True,Reject H0
+RQ2,Mann-Whitney U,2291186266.5,0.0,0.3785132096844175,Rank-biserial correlation,119390,Review distribution shapes and independence,0.0,True,Reject H0
+RQ3,Spearman Correlation,0.09134711148132256,2.984545052662232e-218,0.09134711148132256,Spearman rho,118674,Review monotonicity and independence,2.984545052662232e-218,True,Reject H0
+RQ4,Kruskal-Wallis,20424.336473428684,0.0,0.17103649248976951,Eta-squared H,119387,Review group distributions and independence,0.0,True,Reject H0
