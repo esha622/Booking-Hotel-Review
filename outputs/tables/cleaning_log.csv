@@ -1,0 +1,15 @@
+Operation,Records,Description
+Load original dataset,119390,Created a working copy of the raw dataset
+Categorical cleaning,119390,Standardised text and labelled missing categories
+Numerical validation,119390,adr: 1 negative values treated as missing
+Numerical validation,119390,lead_time: 0 negative values treated as missing
+Numerical validation,119390,adults: 0 negative values treated as missing
+Numerical validation,119390,children: 0 negative values treated as missing
+Numerical validation,119390,babies: 0 negative values treated as missing
+Numerical validation,119390,stays_in_weekend_nights: 0 negative values treated as missing
+Numerical validation,119390,stays_in_week_nights: 0 negative values treated as missing
+Cancellation validation,119390,Removed 0 invalid cancellation records
+Cancellation validation,119390,Removed 0 invalid cancellation records
+Identical record assessment,119390,Identical records retained because unique booking IDs are unavailable
+Identical record assessment,119390,Identical records retained because unique booking IDs are unavailable
+Identical record assessment,119390,Identical records retained because unique booking IDs are unavailable
